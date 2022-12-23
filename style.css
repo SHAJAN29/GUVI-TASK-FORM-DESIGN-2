@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,500;0,800;1,100;1,300;1,500&family=Roboto:ital,wght@0,300;0,500;0,900;1,100&display=swap');
+
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+form .firstName p{
+
+color: gray !important;
+font-weight: 400;
+font-size: 14px;
+
+}
+form .lastName p{
+
+    color: gray !important;
+    font-weight: 400;
+    font-size: 14px;
+
+}
+form span{
+
+    color: rgb(255, 0, 0) !important;
+
+}
+form .bi-star-fill{
+
+
+color: coral;
+}
+.rating p{
+
+    color: gray !important;
+    font-weight: 400;
+    font-size: 14px;
+}
+.aling {
+
+    transform: translateY(1px);
+}
+[type="radio"]{
+
+    transform: translateY(8px);
+
+}
+.aling p{
+    text-transform: capitalize;
+    color: rgb(100, 99, 99);
+     font-size: 12px;
+        transform: translateY(8px) !important;
+        text-align: left;
+    
+}
+.mark1{
+    text-transform: capitalize;
+    color: gray;
+     font-size: 11px;
+        transform: translateY(8px) !important;
+    
+}
+.area{
+
+margin-top: -12px !important;
+
+}
